@@ -1,0 +1,38 @@
+.po1{
+    height: 200px;
+    width: 500px;
+    display: flex;
+    border: 2px solid black ;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.po1>button{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.po2{
+    border: 2px solid black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.klo{
+    display: flex;
+    flex-direction: row;
+
+}
+.po2>h1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#mol{
+    display: flex;
+    justify-content: center;
+    
+}
